@@ -1,6 +1,8 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "Aggretsuko.json",
+    "InvaderZim.json"
   ],
   "homeserver_url": "https://matrix.megahirtz.run"
 }
